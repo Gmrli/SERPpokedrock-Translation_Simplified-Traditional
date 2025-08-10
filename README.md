@@ -1,0 +1,1 @@
+一个保存我对象SERPpokedrock Adfon 汉化文件的库
