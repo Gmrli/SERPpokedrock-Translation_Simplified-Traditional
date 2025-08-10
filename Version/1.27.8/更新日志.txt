@@ -1,0 +1,93 @@
+[zh_CN]
+【新增内容】
+• 增加呱呱泡蛙进化链
+• 新增仙子伊布
+
+【系统优化】
+• 改良村庄生成机制
+• 优化战斗计时器
+• 改进抛射物碰撞判定
+• 训练师会在玩家接近时主动挑战
+• 新增蹲下操作释放宝可梦
+• 击退效果调整（1.27.8）
+• 战斗触发器修复（1.27.8）
+• 脚本事件 serp:battleend 优化（1.27.8）
+• 攻击传感器改进（1.27.8）
+
+【战斗升级】
+• 招式效果更真实
+• 宝可梦会自动攻击玩家锁定的生物
+• 视觉效果提升
+• 动画系统改造启动
+• 修复攻击未生效时的错误（1.27.8）
+
+【其他改进】
+• 优化召唤系统
+• 君莎小姐会攻击敌对生物
+• 多项性能优化
+• 新增宝可币道具的收益显示（1.27.8）
+• 若干问题修复
+
+
+
+[zh_TW]
+【新增內容】
+• 增加呱呱泡蛙進化鏈
+• 新增仙子伊布
+
+【系統優化】
+• 改良村莊生成機制
+• 優化戰鬥計時器
+• 改進拋射物碰撞判定
+• 訓練師會在玩家接近時主動挑戰
+• 新增蹲下操作釋放寶可夢
+• 擊退效果調整（1.27.8）
+• 戰鬥觸發器修復（1.27.8）
+• 腳本事件 serp:battleend 優化（1.27.8）
+• 攻擊傳感器改進（1.27.8）
+
+【戰鬥升級】
+• 招式效果更真實
+• 寶可夢會自動攻擊玩家鎖定的生物
+• 視覺效果提升
+• 動畫系統改造啓動
+• 修復攻擊未生效時的錯誤（1.27.8）
+
+【其他改進】
+• 優化召喚系統
+• 君莎小姐會攻擊敵對生物
+• 多項性能優化
+• 新增寶可幣道具的收益顯示（1.27.8）
+• 若干問題修復
+
+
+
+[en_US]
+【New Additions】
+• Added Froakie's evolutionary line
+• Added Sylveon
+
+【System Optimizations】
+• Improved custom village spawning
+• Enhanced combat timers
+• Improved projectile collision detection
+• Trainers now initiate battles when players approach
+• Added crouching mechanic to release Pokémon
+• Adjusted knockback effects (1.27.8)
+• Fixed battle triggers (1.27.8)
+• Optimized scriptevent "serp:battleend" (1.27.8)
+• Improved attack sensor (1.27.8)
+
+【Battle Improvements】
+• More realistic attack effects
+• Pokémon now automatically attack player-targeted mobs
+• Enhanced visual effects
+• Begun animation system overhaul
+• Fixed bug where attacks had no effect (1.27.8)
+
+【Other Enhancements】
+• Improved summoning system
+• Officer Jenny now attacks hostile mobs
+• Multiple performance optimizations
+• Added Poké coin earnings display (1.27.8)
+• Various bug fixes
